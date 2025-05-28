@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @UtkarshRanjan07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @UtkarshRanjan
+- 👀 I’m interested in Data Science, Machine Learning, AI/GEN AI
+- 🌱 I’m graduated from National Institute of Technology Rourkela
+- 💞️ I’m looking to collaborate on real-world challenging projects
+- 📫 How to reach me ... Email: utkarsh.ranjan.kapsime@gmail.com
 
 <!---
 UtkarshRanjan07/UtkarshRanjan07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
